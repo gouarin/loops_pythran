@@ -6,6 +6,7 @@ dependencies:
   - matplotlib
   - ipython
   - ipython-notebook
-  - pythran
+  - pip:
+    - pythran
   - cython
   - line_profiler
