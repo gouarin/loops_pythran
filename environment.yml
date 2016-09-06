@@ -1,0 +1,11 @@
+name: loops_pythran
+
+dependencies:
+  - python=2.7
+  - numpy
+  - matplotlib
+  - ipython
+  - ipython-notebook
+  - pythran
+  - cython
+  - line_profiler
